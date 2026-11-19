@@ -1,14 +1,8 @@
-<img align="left" width="708" src="https://cdn.discordapp.com/attachments/1512158876282130647/1572785055661821962/-edited-free_carve.photos.png?ex=6affa1ba&is=6afe503a&hm=54736f675c9b9654b9bf9d0efa3cf98c22a3fa8ec9e90c1c2aec8f57be884c51&" >
+<img align="left" width="500" src="https://cdn.discordapp.com/attachments/1512158876282130647/1572785055661821962/-edited-free_carve.photos.png?ex=6affa1ba&is=6afe503a&hm=54736f675c9b9654b9bf9d0efa3cf98c22a3fa8ec9e90c1c2aec8f57be884c51&" >
 <div id="header" align="center">
-⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <div id="header" align="center">
-⠀⠀⠀⠀⠀⠀
-  <div id="header" align="center">
-⠀⠀⠀⠀⠀⠀
-    <div id="header" align="center">
-⠀⠀⠀⠀⠀⠀
-      <div id="header" align="center">
-⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀
 <div id="header" align="center">
 𝑌𝑜𝑢  𝑑𝑜𝑛'𝑡  𝑛𝑒𝑒𝑑  𝑡ℎ𝑒𝑚 ,  𝑡ℎ𝑒𝑟𝑒'𝑠  𝑎  𝑟𝑒𝑎𝑠𝑜𝑛
 <div id="header" align="center">
