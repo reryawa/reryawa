@@ -22,4 +22,7 @@
 <div id="header" align="center">
 𝐼'𝑣𝑒 𝑔𝑜𝑡 𝑤ℎ𝑎𝑡 𝑦𝑜𝑢'𝑟𝑒 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑓𝑜𝑟
 <br clear="left" />
-<img align="right" width="400" src="https://cdn.discordapp.com/attachments/1512158876282130647/1572791778770165820/you_check_on_whats_important_for_you-edited-free_carve.photos.png?ex=6affa7fd&is=6afe567d&hm=0dbb832725ce40bcbdd4ca610cec18fc1267b45afda2f0b2b09fe787449204d3&&" >
+<p>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAEElEQVR4AQEFAPr/AAAAAAAABQABZHiVOAAAAABJRU5ErkJggg==" width="250" height="1">
+  <img src="https://cdn.discordapp.com/attachments/1512158876282130647/1572792370649497690/Rengy_comm_closed_on_X-edited-free_carve.photos.png?ex=6affa88a&is=6afe570a&hm=374f139219f5bef779f83aaca94d5da4112f05022faa1282c2cd4aa1051ce5fc&" width="400">
+</p>
