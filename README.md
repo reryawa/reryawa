@@ -1,28 +1,54 @@
-<img align="left" width="500" src="https://cdn.discordapp.com/attachments/1512158876282130647/1572785055661821962/-edited-free_carve.photos.png?ex=6affa1ba&is=6afe503a&hm=54736f675c9b9654b9bf9d0efa3cf98c22a3fa8ec9e90c1c2aec8f57be884c51&" >
+⠀⠀⠀⠀⠀⠀⠀<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1512158876282130647/1573336759817867274/Mai_Zenin___JJK_Season_3-fotor-20261120165711.png?ex=6b01a38a&is=6b00520a&hm=dcb58bfe1164c33eed02e7a8835387c294dd43a2eeebef464c10f9df661082a3&" >
+</p>
+<div id="header" align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<div id="header" align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<div id="header" align="center">
+𝗂 𝖺𝗅𝗐𝖺𝗒𝗌 𝖿𝗂𝗀𝗎𝗋𝖾𝖽 𝗂𝗍 𝗐𝗈𝗎𝗅𝖽 𝖼𝗈𝗆𝖾 𝗍𝗈 𝗍𝗁𝗂𝗌
+<div id="header" align="center">
+𝗈𝗇𝖾 𝖽𝖺𝗒.
+<div id="header" align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<div id="header" align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1512158876282130647/1573336759448903760/MAKIIIIIIII-fotor-20261120165818.png?ex=6b01a38a&is=6b00520a&hm=247c193877cb1f65bf3a7ac2e1dcd115ac66ea0c8153520ebc588b5309a1f1fb&" >
+</p>
 <div id="header" align="center">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <div id="header" align="center">
 ⠀⠀⠀⠀⠀⠀⠀
 <div id="header" align="center">
-𝑌𝑜𝑢  𝑑𝑜𝑛'𝑡  𝑛𝑒𝑒𝑑  𝑡ℎ𝑒𝑚 ,  𝑡ℎ𝑒𝑟𝑒'𝑠  𝑎  𝑟𝑒𝑎𝑠𝑜𝑛
+𝖺𝗌 𝗅𝗈𝗇𝗀 𝖺𝗌 𝗂 𝖾𝗑𝗂𝗌𝗍, 𝖬𝖺𝗄𝗂
 <div id="header" align="center">
-𝐼'𝑚  𝑦𝑜𝑢𝑟  𝑟𝑒𝑎𝑙  𝑓𝑟𝑖𝑒𝑛𝑑
+𝗒𝗈𝗎'𝗅𝗅 𝖺𝗅𝗐𝖺𝗒𝗌 𝖻𝖾 𝗂𝗇𝖼𝗈𝗆𝗉𝗅𝖾𝗍𝖾.
 <div id="header" align="center">
-𝑁𝑒𝑣𝑒𝑟  𝑙𝑒𝑎𝑣𝑒  ℎ𝑜𝑚𝑒 ,  𝑙𝑖𝑓𝑒  𝑖𝑠  𝑒𝑣𝑖𝑙
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <div id="header" align="center">
-𝐼'𝑚  𝑦𝑜𝑢𝑟  𝑓𝑟𝑒𝑒𝑑𝑜𝑚
+𝗃𝗎𝗌𝗍 𝗉𝗋𝗈𝗆𝗂𝗌𝖾 𝗆𝖾 𝗈𝗇𝖾 𝗍𝗁𝗂𝗇𝗀
 <div id="header" align="center">
-⠀⠀⠀⠀⠀⠀
+𝖽𝖾𝗌𝗍𝗋𝗈𝗒 𝖾𝗏𝖾𝗋𝗒𝗍𝗁𝗂𝗇𝗀.
 <div id="header" align="center">
-𝑂𝑛𝑒 𝑚𝑜𝑟𝑒, 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <div id="header" align="center">
-𝑇𝑟𝑦 𝑡𝑜 𝑟𝑒𝑠𝑖𝑠𝑡 𝑚𝑒, 𝑦𝑜𝑢'𝑟𝑒 𝑔𝑜𝑛𝑛𝑎 𝑚𝑖𝑠𝑠 𝑚𝑒
-<div id="header" align="center">
-𝑂𝑛𝑒 𝑚𝑜𝑟𝑒, 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒
-<div id="header" align="center">
-𝐼'𝑣𝑒 𝑔𝑜𝑡 𝑤ℎ𝑎𝑡 𝑦𝑜𝑢'𝑟𝑒 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑓𝑜𝑟
-<br clear="left" />
-<p>
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAEElEQVR4AQEFAPr/AAAAAAAABQABZHiVOAAAAABJRU5ErkJggg==" width="250" height="1">
-  <img src="https://cdn.discordapp.com/attachments/1512158876282130647/1572792370649497690/Rengy_comm_closed_on_X-edited-free_carve.photos.png?ex=6affa88a&is=6afe570a&hm=374f139219f5bef779f83aaca94d5da4112f05022faa1282c2cd4aa1051ce5fc&" width="400">
+⠀⠀⠀⠀⠀⠀⠀<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1512158876282130647/1573328630929686639/JujutsuKaisenseason3-fotor-20261120162230.png?ex=6b019bf8&is=6b004a78&hm=06885052c27deeccbc34c0fa9aeaa80dd56c3ce596426405c96899a65befcfdf&" >
 </p>
+<div id="header" align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<div id="header" align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<div id="header" align="center">
+𝖺𝗅𝗅 𝗈𝖿 𝗂𝗍 𝗒𝗈𝗎 𝗁𝖾𝖺𝗋
+<div id="header" align="center">
+𝖻𝗂𝗀 𝗌𝗂𝗌𝗍𝖾𝗋?
+  <div id="header" align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    <div id="header" align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1512158876282130647/1573328631596589146/rbll0-fotor-20261120162115.png?ex=6b019bf8&is=6b004a78&hm=1c1d22b5207f452464ac2f73be4db91a33c5b44bd37ef93a915bc177a2d3fb47&" >
+</p>
+
